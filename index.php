@@ -26,6 +26,8 @@
     $pessoa4[0][0][0][0][0]["característica"] = "inteligente";
 
     echo ($pessoa1[0][0][0][0][0]["alunos"] . " tem " . $pessoa1[0][0][0][0][0]["idade"] . " anos ");
+    echo "<br>";
+    echo ($pessoa2[0][0][0][0][0]["alunos"] . " tem " . $pessoa2[0][0][0][0][0]["idade"] . " anos ");
 
     
 
